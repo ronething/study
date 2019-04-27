@@ -2,13 +2,13 @@
 
 - `sudo CFLAGS="-mmacosx-version-min=10.14" pipenv install tesserocr`
 
-### `import tesserocr`问题
+### import tesserocr 问题
 
 > !strcmp(locale, "C"):Error:Assert failed:in file baseapi.cpp, line 209
 
 - `export LC_ALL=C`
 
-### `pyspider` 安装的一些问题
+### pyspider 安装的一些问题
 
 > Please see PycURL documentation for how to specify the SSL backend manually.
 
@@ -23,7 +23,7 @@ export LDFLAGS=-L/usr/local/Cellar/openssl/1.0.2p/lib
 export CPPFLAGS=-I/usr/local/Cellar/openssl/1.0.2p/include
 ```
 
-> - Deprecated option 'domaincontroller': use 'http_authenticator.domain_controller' instead.
+> Deprecated option 'domaincontroller': use 'http_authenticator.domain_controller' instead.
 
 - wsgidav 需要降级为2.x 默认为 3.0
 
