@@ -8,7 +8,7 @@
 
 https://github.com/django-auth-ldap/django-auth-ldap
 
-![image-20190505154307635](/Users/ronething/Documents/study/assets/image-20190505154307635.png)
+![image-20190505154307635](assets/image-20190505154307635.png)
 
 > jumpserver 使用的 ldap 认证开源项目
 
@@ -16,6 +16,6 @@ https://github.com/django-auth-ldap/django-auth-ldap
 
 https://github.com/admiralobvious/flask-simpleldap
 
-![image-20190505154607536](/Users/ronething/Documents/study/assets/image-20190505154607536.png)
+![image-20190505154607536](assets/image-20190505154607536.png)
 
 [内存泄漏](https://www.cnblogs.com/UnGeek/p/5984880.html) 不过是两年多发生的事情，现在不知道还有没有
